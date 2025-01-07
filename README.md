@@ -99,8 +99,8 @@ graph TD
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/invoice-processor.git
-cd invoice-processor
+git clone https://github.com/ghwallis/ai-unstructured-invoice-workflow-googleapi.git
+cd ai-unstructured-invoice-workflow-googleapi
 ```
 
 2. Install dependencies:
