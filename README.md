@@ -2,8 +2,6 @@
 
 A modern web application for automated invoice processing, validation, and approval workflows. Built with Next.js, Google Document AI, and Tailwind CSS.
 
-![Invoice Processor Demo](demo.gif)
-
 ## Features
 
 - 📄 Automated invoice data extraction
@@ -12,6 +10,11 @@ A modern web application for automated invoice processing, validation, and appro
 - 🔄 Approval workflow with edit capabilities
 - 📱 Responsive design for all devices
 - 🎯 Progress tracking for processing stages
+
+# Video Demonstration
+
+[![Watch the video](https://user-images.githubusercontent.com/e562e044-923a-46b6-8384-3e650c422922)](https://github.com/user-attachments/assets/e562e044-923a-46b6-8384-3e650c422922)
+
 
 ## Architecture
 
