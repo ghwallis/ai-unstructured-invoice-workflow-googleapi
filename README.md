@@ -1,6 +1,10 @@
-# Invoice Processing Application
+# Invoice Processing Application using Google Document Intelligence
 
-A modern web application for automated invoice processing, validation, and approval workflows. Built with Next.js, Google Document AI, and Tailwind CSS.
+A modern web application for automated invoice processing, validation, and approval workflows for pdfs, images, and scanned documents. Built with Next.js, Google Document AI, and Tailwind CSS.
+
+A modern web application designed to streamline invoice management by automating the entire process from data extraction to approval. This solution leverages the power of Next.js, Google Document AI, and Tailwind CSS to provide businesses with a fast, efficient, and scalable way to handle invoices. Whether you're processing hundreds or thousands of invoices, this application ensures accuracy, reduces manual workload, and accelerates decision-making.
+
+The system integrates advanced data extraction capabilities, real-time validation against vendor records, and dynamic analytics, enabling businesses to gain valuable insights while maintaining compliance. With a responsive and user-friendly interface, the application ensures seamless usability across all devices, making it ideal for finance teams, procurement departments, and business administrators.
 
 ## Features
 
